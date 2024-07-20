@@ -1,0 +1,8 @@
+1> ValueError at /api/loan-prediction/predict/
+This RandomForestClassifier estimator requires y to be passed, but the target y is None.
+
+==> 
+
+
+2>NotFittedError at /api/loan-prediction/predict/
+This SimpleImputer instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
